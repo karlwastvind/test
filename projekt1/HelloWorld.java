@@ -6,19 +6,9 @@ public class HelloWorld {
         System.out.println("hejehejeh");
         System.out.println("hejehejeh");
 
-        System.out.println("hejehejeh");
-
-        System.out.println("hejehejeh");
-
-        System.out.println("hejehejeh");
-
-        System.out.println("hejehejeh");
-
-        System.out.println("hejehejeh");
-
-        System.out.println("hejehejeh");
-
-        System.out.println("hejehejeh");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("karl");
+        }
 
     }
 }
