@@ -8,5 +8,17 @@ public class HelloWorld {
 
         System.out.println("hejehejeh");
 
+        System.out.println("hejehejeh");
+
+        System.out.println("hejehejeh");
+
+        System.out.println("hejehejeh");
+
+        System.out.println("hejehejeh");
+
+        System.out.println("hejehejeh");
+
+        System.out.println("hejehejeh");
+
     }
 }
